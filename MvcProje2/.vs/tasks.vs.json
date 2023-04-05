@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "görev-EntityLayer",
+      "appliesTo": "EntityLayer/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "görev-MvcProje2",
+      "appliesTo": "MvcProje2/",
+      "type": "launch"
+    }
+  ]
+}

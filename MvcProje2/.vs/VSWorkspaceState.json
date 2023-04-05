@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BusinessLayer",
+    "\\DataAccessLayer",
+    "\\DataAccessLayer\\Abstract",
+    "\\MvcProje2",
+    "\\MvcProje2\\Views",
+    "\\MvcProje2\\Views\\Blog",
+    "\\MvcProje2\\Views\\Chart",
+    "\\MvcProje2\\Views\\Comment",
+    "\\MvcProje2\\Views\\Contact"
+  ],
+  "SelectedNode": "\\DataAccessLayer\\Concrete\\Repository.cs",
+  "PreviewInSolutionExplorer": false
+}
